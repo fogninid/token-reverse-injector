@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  token-reverse-injector:
+  - apiVersion: v2
+    created: "2025-09-07T14:53:57.246347448Z"
+    description: deploy a reverse proxy to inject bearer tokens
+    digest: 64ecbaeae6040f8e7576468ff8987c1507725b941134ad6b0e24aae206e4b561
+    name: token-reverse-injector
+    type: application
+    urls:
+    - https://github.com/fogninid/token-reverse-injector/releases/download/token-reverse-injector-0.1.0/token-reverse-injector-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-07T14:53:57.246358178Z"
